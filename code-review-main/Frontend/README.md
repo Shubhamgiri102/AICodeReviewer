@@ -1,8 +1,31 @@
-# React + Vite
+# AICodeReviewer 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AICodeReviewer is an AI-powered code review tool built with **React** and **Node.js**, leveraging **Google Gemini AI** to provide smart feedback and suggestions for source code.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
+
+- ⚡ Real-time code review
+- 🤖 Google Gemini integration for AI-based suggestions
+- 🌐 Modern frontend in React
+- 📡 Backend with Node.js & Express
+- 📄 Supports multiple programming languages
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **AI/ML**: Google Gemini API
+
+---
+
+## 🚀 How to Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Shubhamgiri102/AICodeReviewer.git
+cd AICodeReviewer
